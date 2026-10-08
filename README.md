@@ -70,8 +70,7 @@ If `bc` is not installed, install it with your distribution's package manager.
 
 Clone the repository:
 
-`git clone https://github.com/YOUR_USERNAME/Fuel.git`
-
+`git clone https://github.com/Michael-AUG/FuelTracker.git`
 
 Enter the directory:
 
